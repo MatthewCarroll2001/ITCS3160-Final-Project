@@ -35,7 +35,7 @@ During this first part, I worked on the following skills:
 * Designate all required attributes to the corresponding entities in a visually fitting manner
 * Quickly and efficiently space out parts of design in a visually pleasant and informative layout
 
-All submitted materials will be inside of the <b>part1_submission</b> directory
+All submitted materials for part 1 will be inside of the <b>part1_submission</b> directory
 
 ## Part 2 Explanation
 ### Requirements
@@ -61,11 +61,19 @@ Put all create table, alter table, etc in hospital-schema.sql.
 3- You need to populate your database with at least 5 tuples for each table. Put all insert statements in hospital-data.sql.
 
 ### Skills Learned
+Part 2 required me to really apply my SQL knowledge, and here is what I learned:
+* Defining large sets of data tables, specifically those that might depend on each other
+* Inserting large amounts of data and making sure everything lines up
+* Switching between scripts that have different functions in SQL and generalizing the work flow
+* Using queries as data is added to check that insertions were completed and proper
+* Using a conceptual plan to implement a physical database
 
-
+All submitted materials for part 2 will be inside of the <b>part2_submission</b> directory
 
 ## Part 3 Explanation
 ### Requirements
 
 ### Skills Learned
 
+
+All submitted materials for part 3 will be inside of the <b>part3_submission</b> directory
