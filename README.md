@@ -7,7 +7,7 @@ The project is split into three parts:
 * Part 2 includes the implementation of the basic database schema and data insertion into MySQL
 * Part 3 includes views, triggers, and queries
 
-### Skills Learned
+## Skills Learned
 Part 1:
 * Plan ways to map relationships and entities based on client requirements
 * Brainstorm solutions to difficult relations and workarounds for conflicts in design
@@ -26,3 +26,9 @@ Part 3:
 * Setting triggers to keep information insertion and update in line with requirements
 * Creating views to make sure information is readily availible or hidden if needed
 * Querying for specific data inside any table that may be complex or linked to other tables
+
+## Files
+* final-hospital-EERD.png contains full design
+* hospital-shema.sql contains definition of database, views, and triggers
+* hospital-data.sql contains all inserted data
+* hospital-query.sql contains a set of 15 queries for the database
