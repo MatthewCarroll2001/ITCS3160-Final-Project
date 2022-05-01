@@ -5,7 +5,7 @@ This is the full three parts of my final project for ITCS 3160 - Database Design
 The project is split into three parts:
 * Part 1 includes the design (included in the report and as a separate png file)
 * Part 2 includes the implementation of the basic database schema and data insertion
-* Part 3 includes views, triggers, queries, and final report linked as a docx file
+* Part 3 includes views, triggers, queries, and final report linked as a pdf
 
 ### Skills Learned
 Part 1:
