@@ -1,13 +1,9 @@
 # ITCS 3160 - Final Project
 This is the full three parts of my final project for ITCS 3160 - Database Design and Implementation
 
-The project is split into three parts:
-* Part 1: (E)ER Design
-* Part 2: Relational Mapping, Creating Database Schema, and Populating Database
-* Part3: Complete Database and Final Report
-
 ## Overview
-* Part 1 includes the design (included in the report and as a separate png file
+The project is split into three parts:
+* Part 1 includes the design (included in the report and as a separate png file)
 * Part 2 includes the implementation of the basic database schema and data insertion
 * Part 3 includes views, triggers, queries, and final report linked as a docx file
 
